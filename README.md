@@ -4,7 +4,7 @@
 
 ### Code • Intelligence • Future
 
-<img src="hero.svg" width="100%" alt="Azarin Afzar animated hero"/>
+<img src="hero.ong" width="100%" alt="Azarin Afzar  hero"/>
 
 <br/>
 
