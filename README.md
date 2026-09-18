@@ -1,6 +1,4 @@
-<div align="center">
 
-<img src="azarin-afzar-logo.jpg" width="180" alt="Azarin Afzar Logo"/>
 
 # AZARIN AFZAR
 
